@@ -2,6 +2,8 @@
 
 This repo is for monitoring the current price and ammount of babydoge coins in a wallet. It is meant to be shown in a public office space.
 
+Here you can view the [Tracking-Dashboard](https://insightgroup-capell.github.io/baby-doge-coin/)
+
 ## Overview
 
 The project is a react app with a interagted datapipline fetching the data on a periodically lvl. To change the layout you have to change the react components looking like html. The backend fetching happens in the .jsx component. Here you will find the urls and variables.
